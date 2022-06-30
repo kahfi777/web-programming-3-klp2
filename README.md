@@ -13,14 +13,11 @@
 </p>
 
 ### 🤔 Apa itu Learnify?
-Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/syauqi"> Syauqi Zaidan Khairan Khalaf. </a> **Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis.** Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
-
-### 🎉 Kenapa dibuat Open Source?
-Saya buat open-source agar dapat membantu sekolah sekolah agar dapat melaksanakan pembelajaran dimana saja dan kapan saja.
+Web Edukasi Open Source yang dibuat oleh <a href="https://github.com/kahfi777"> Hamba Allah. </a> **Learnify adalah Web edukasi yang dilengkapi video, materi dan sistem ujian yang tersedia secara gratis.** Learnify dibuat ditujukan agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
 
 ### 🤨 Fitur apa saja yang tersedia di learnify?
 - Student Login System
-- Student Registration w/ email verification ( Dapat menghubungi saya untuk mengaktifkan feature tersebut )
+- Student Registration w/ email verification 
 - Disqus comment every lesson, make it more interactive.
 - Student, lesson & teacher data management
 - And manymore!
@@ -28,13 +25,6 @@ Saya buat open-source agar dapat membantu sekolah sekolah agar dapat melaksanaka
 ### 🏠 <a href="#">Homepage</a>
 **Halaman Homepage & Dokumentasi project ini sedang saya kembangkan.** oleh karena itu, mohon sabar ya teman teman untuk cara penggunaan dan dokumentasi yang diperlukan. sementara ini jika ada issues dan bug bisa menambah *issue* di repository ini.
 
-### ✨ <a href="http://programmer.smkn1ciamis.id/learnify/">Demo</a>
-Demo sudah kalian bisa akses di http://programmer.smkn1ciamis.id/learnify/
-silahkan dicoba dan ditest feature yang telah ada 🤙🏻
-
-### 📆 <a href="#">Release Date</a>
-- v1.0 : 17 April 2020
-- v2.0 : 25 June 2020
 
 ------------
 
@@ -66,18 +56,16 @@ silahkan dicoba dan ditest feature yang telah ada 🤙🏻
 
 ## 💻 Install
 - Download learnify atau fork lalu clone di computer kalian.
-- Upload database "Learnify.sql" ke dbms favourite kalian.
+- Upload database "db_elearning.sql" ke dbms favourite kalian.
 - Jalankan di web browser ( Chrome, Firefox, Edge, Safari )
 
 
 ## 🧑 Author
 
-👤 <a href="https://web.facebook.com/syaauqi"> **Syauqi Zaidan Khairan Khalaf**</a>
-- Twitter : <a href="https://twitter.com/syaaauqi"> @syaaauqi</a>
-- Facebook : <a href="https://web.facebook.com/syaaauqi"> Syauqi Zaidan Khairan Khalaf</a>
-- Instagram : <a href="https://www.instagram.com/syaufy/">@syaufy </a>
-- Dribbble : <a href="https://dribbble.com/syaufy">@syaufy </a>
-- Behance :  <a href="https://www.behance.net/syaufy">@syaufy </a>
+👤 <a href="https://web.facebook.com/galur.anolty"> **Hamba Allah**</a>
+- Facebook : <a href="https://web.facebook.com/galur.anolty"> Hamba Allah</a>
+- Instagram : <a href="https://www.instagram.com/kahfi.7777/">@Hamba Allah </a>
+- Youtube : <a href="https://www.youtube.com/channel/UC4KPK2xl1CZD7diEadMcteg">Hamba Allah </a>
 
 ## 🤝 Contributing
 Contributions, issues and feature requests di persilahkan.
@@ -85,12 +73,8 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 
 ## 📝 License
-- Copyright © 2020 Syauqi Zaidan Khairan Khalaf
+- Copyright © 2022 Hamba Allah
 - **Learnify is open-sourced software licensed under the MIT license**
 
-## 🎥 Video Source
-**Thanks to youtube dan para uploader video yang ada di learnify yang bersedia untuk menjadi data default bagi project ini.**
-https://pastebin.pl/view/c3608c25
-
 ------------
-**Made with ❤️ by Syauqi Zaidan Khairan Khalaf**
+**Made with ❤️ by Hamba Allah**
